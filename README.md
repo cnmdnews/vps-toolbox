@@ -13,7 +13,7 @@ curl -sL [https://tinyurl.com/VPSyijiandaima](https://tinyurl.com/VPSyijiandaima
 
 
 
-✨ 功能特性 (v2.5)
+✨ 功能特性 (v3.0)
 🖥️ 1. 系统运维
 系统更新与清理
 
@@ -63,7 +63,7 @@ Lookbusy (CPU/内存占用，防甲骨文回收)
 流量挂机脚本
 
 📝 更新日志
-v2.5: 增加使用量统计，修复已知 Bug，完善所有功能模块。
+v3.0: 增加使用量统计，修复已知 Bug，完善所有功能模块。
 
 ⚠️ 免责声明
 本脚本仅供学习交流使用，请勿用于非法用途。
