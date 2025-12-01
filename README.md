@@ -9,8 +9,7 @@
 
 **推荐 (全球通用):**
 ```bash
-curl -sL [https://tinyurl.com/VPSyijiandaima](https://tinyurl.com/VPSyijiandaima) | bash
-
+wget -O tool.sh tinyurl.com/VPSyijiandaima && chmod +x tool.sh && bash tool.sh
 
 
 ✨ 功能特性 (v3.0)
