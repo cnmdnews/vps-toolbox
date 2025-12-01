@@ -1,7 +1,7 @@
 # 🛠️ VPS Toolbox - 全能 VPS 运维工具箱
 
-![GitHub stars](https://img.shields.io/github/stars/你的用户名/vps-toolbox?style=social)
-![Version](https://img.shields.io/badge/Version-2.5-blue)
+![GitHub stars](https://img.shields.io/github/stars/cnmdnews/vps-toolbox?style=social)
+![Version](https://img.shields.io/badge/Version-3.0-blue)
 
 一个功能强大的 Linux VPS 一键管理脚本。集成系统运维、安全优化、常用工具、性能测试、面板安装、保活挂机等 80+ 项功能。
 
