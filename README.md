@@ -10,7 +10,7 @@
 **推荐 (全球通用):**
 ```bash
 wget -O tool.sh tinyurl.com/VPSyijiandaima && chmod +x tool.sh && bash tool.sh
-
+```
 
 ✨ 功能特性 (v3.0)
 🖥️ 1. 系统运维
